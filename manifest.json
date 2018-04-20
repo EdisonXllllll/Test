@@ -1,0 +1,15 @@
+{
+  "name": "PWA Angular",
+  "short_name": "PWA Angular",
+  "description": "PWA Angular",
+  "icons": [{
+    "src": "assets/img/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#00abff"
+}
