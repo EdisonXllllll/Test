@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/pwa-test/index.html",
+  "index": "/Test/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/pwa-test/favicon.ico",
-        "/pwa-test/index.html",
-        "/pwa-test/inline.318b50c57b4eba3d437b.bundle.js",
-        "/pwa-test/main.074d22c47cb70f92109a.bundle.js",
-        "/pwa-test/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
-        "/pwa-test/styles.ac89bfdd6de82636b768.bundle.css"
+        "/Test/favicon.ico",
+        "/Test/index.html",
+        "/Test/inline.318b50c57b4eba3d437b.bundle.js",
+        "/Test/main.074d22c47cb70f92109a.bundle.js",
+        "/Test/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
+        "/Test/styles.ac89bfdd6de82636b768.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/pwa-test/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/pwa-test/main.074d22c47cb70f92109a.bundle.js": "43c0af7fe6dafda2cd815a84b3515e0048b3314f",
-    "/pwa-test/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
-    "/pwa-test/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/pwa-test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pwa-test/index.html": "b975ca01f9ecd646832e722e06f9f2ff22cd5973"
+    "/Test/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/Test/main.074d22c47cb70f92109a.bundle.js": "43c0af7fe6dafda2cd815a84b3515e0048b3314f",
+    "/Test/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "/Test/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/Test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/Test/index.html": "31397ea0da3108c81411cfb4080145c6692777da"
   }
 }
