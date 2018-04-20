@@ -10,7 +10,7 @@
         "/Test/favicon.ico",
         "/Test/index.html",
         "/Test/inline.318b50c57b4eba3d437b.bundle.js",
-        "/Test/main.7cd1c716a2a73a3ab2c0.bundle.js",
+        "/Test/main.98d8b1158acde2d40352.bundle.js",
         "/Test/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "/Test/scripts.3dd222a7b503e757495f.bundle.js",
         "/Test/styles.6251813dd5494a3c3757.bundle.css"
@@ -33,13 +33,13 @@
   "hashTable": {
     "/Test/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/Test/assets/img/bg1.jpg": "06ed5b17d6d73e5838a9645b69c75ce043a287c9",
-    "/Test/main.7cd1c716a2a73a3ab2c0.bundle.js": "c697938d24998feb48961cebb6286116e9d7d054",
+    "/Test/main.98d8b1158acde2d40352.bundle.js": "d6b8aacb1cd9b8e6a3b1c115a4c9abb756f823d4",
     "/Test/assets/img/favicon.png": "9828b3bacd320f64173d0ea89aeaa2fda66fe0f9",
     "/Test/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "/Test/assets/img/now-logo.png": "a133f885eac45ae1fd69e6d13f1b4326a02bde3b",
     "/Test/scripts.3dd222a7b503e757495f.bundle.js": "15544d9f244c309290a54b1e2b55a2f8d0657f25",
     "/Test/styles.6251813dd5494a3c3757.bundle.css": "f6d612980e5aa00836f8919bd48155d7d0062c9e",
     "/Test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/Test/index.html": "37b32dd6658d71ae37ccaffbcf7524a99088651e"
+    "/Test/index.html": "7f82206aadf3e74098bfcba02ff9929ad95a84c7"
   }
 }
